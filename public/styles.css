@@ -1,0 +1,49 @@
+/* MAIN */
+
+body {
+    text-align: center;
+}
+
+.text-region {
+    height: 400px;
+}
+
+
+/* NAV */
+
+#nav-wrapper {}
+
+.top {
+    height: 100%;
+}
+
+#title {
+    background-color: black;
+    color: white;
+}
+
+#user-name {
+    background-color: orange;
+    height: 69px;
+}
+
+#name-input {}
+
+
+/* CHAT BOX */
+
+.wrapper {
+    height: 500px;
+}
+
+.user-box {
+    text-align: left;
+    height: inherit;
+    border: solid 5px orange;
+}
+
+.message-box {
+    text-align: center;
+    height: inherit;
+    border: solid 5px black;
+}
